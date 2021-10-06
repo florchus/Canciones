@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1633468527 source:c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Canciones.h"
+	"Fecha.h"
+	"Canciones.h"
+
+1633467716 c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\include\canciones.h
+	"Fecha.h"
+
+1633467674 c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\include\fecha.h
+
+1633467973 source:c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+	"Canciones.h"
+	"funciones.h"
+	"menuCanciones.h"
+
+1633468474 c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\funciones.h
+
+1633467755 source:c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1633467772 source:c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\src\canciones.cpp
+	"canciones.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+
+1633467973 c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\menucanciones.h
+
+1633468474 source:c:\users\user\onedrive\escritorio\utn flor\programacion\canciones\menucanciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Fecha.h"
+	"Canciones.h"
+	"funciones.h"
+
